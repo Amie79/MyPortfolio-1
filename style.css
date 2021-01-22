@@ -1,0 +1,37 @@
+h1{
+    color: blueviolet;
+
+}
+*{
+    border: solid;
+}
+
+.header{
+    background-color: lightpink;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+
+    color: crimson;
+    border: darkblue;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+p,h2{
+
+    text-align: center;
+    color: crimson;
+    background-color: lightgreen;
+    font-family: 'Times New Roman', Times, serif;
+}
